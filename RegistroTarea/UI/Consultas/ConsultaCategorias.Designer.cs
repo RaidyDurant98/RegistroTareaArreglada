@@ -60,7 +60,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(421, 348);
+            this.ClientSize = new System.Drawing.Size(419, 344);
             this.Controls.Add(this.ListaCategoriasdataGridView);
             this.Controls.Add(this.VerListabutton);
             this.Name = "ConsultaCategorias";
